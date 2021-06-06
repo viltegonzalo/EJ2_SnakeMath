@@ -31,7 +31,7 @@ void draw(){
     operacion.deleteApples();
     operacion.deleteDisplay();
     serpiente.matarSerpiente();
-    finJuego.display("FIN DEL JUEGO",100);
+    finJuego.display("GAME OVER",100);
     player.pause();
     
   }else{
